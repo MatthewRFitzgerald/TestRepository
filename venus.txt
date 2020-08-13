@@ -1,3 +1,5 @@
 Venus is super cloudy. Like Santa Barbara mornings.
 Venus is beautiful
 Venus is too hot to be suitable as a base
+
+The robot is not ready yet.
